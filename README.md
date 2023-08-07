@@ -18,5 +18,8 @@ https://www.udemy.com/course/complete-python-bootcamp/
 
 [tictactoe.py](tictactoe.py)
 
-Part one: https://www.youtube.com/watch?v=5s_lGC2sxwQ
-Part two: https://www.youtube.com/watch?v=jAaJZLqryTI&t=902s
+[Part one: Tech With Tim][def2]
+[Part two: Tech With Tim][def]
+
+[def]: https://www.youtube.com/watch?v=jAaJZLqryTI&t=902s
+[def2]: https://www.youtube.com/watch?v=5s_lGC2sxwQ
