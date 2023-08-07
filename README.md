@@ -4,19 +4,19 @@ Behold, the Python practice projects I have completed since July 2023. I will ha
 
 ### Blackjack
 
-blackjack.py
+[blackjack.py](blackjack.py)
 
 https://www.udemy.com/course/complete-python-bootcamp/
 
 ### War
 
-war.py
+[war.py](war.py)
 
 https://www.udemy.com/course/complete-python-bootcamp/
 
 ### Tic Tac Toe
 
-tictactoe.py
+[tictactoe.py](tictactoe.py)
 
 Part one: https://www.youtube.com/watch?v=5s_lGC2sxwQ
 Part two: https://www.youtube.com/watch?v=jAaJZLqryTI&t=902s
