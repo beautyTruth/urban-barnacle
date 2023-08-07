@@ -13,3 +13,10 @@ https://www.udemy.com/course/complete-python-bootcamp/
 war.py
 
 https://www.udemy.com/course/complete-python-bootcamp/
+
+### Tic Tac Toe
+
+tictactoe.py
+
+Part one: https://www.youtube.com/watch?v=5s_lGC2sxwQ
+Part two: https://www.youtube.com/watch?v=jAaJZLqryTI&t=902s
