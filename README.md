@@ -23,3 +23,11 @@ https://www.udemy.com/course/complete-python-bootcamp/
 
 [def]: https://www.youtube.com/watch?v=jAaJZLqryTI&t=902s
 [def2]: https://www.youtube.com/watch?v=5s_lGC2sxwQ
+
+## Slot Machine
+
+[Learn Python With This One Project: Tech With Tim][def3] <br>
+
+[slotmachine.py](slotmachine.py)
+
+[def3]: https://www.youtube.com/watch?v=th4OBktqK1I
