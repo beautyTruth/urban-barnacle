@@ -4,24 +4,24 @@ Behold, the Python practice projects I have completed since July 2023. I will ha
 
 ### Blackjack
 
-[blackjack.py](blackjack.py)
+🐍 [blackjack.py](blackjack.py)
 
 https://www.udemy.com/course/complete-python-bootcamp/
 
 ### War
 
-[war.py](war.py)
+🐍 [war.py](war.py)
 
 https://www.udemy.com/course/complete-python-bootcamp/
 
 ### Tic Tac Toe
 
-[tictactoe.py](tictactoe.py)
+🐍 [tictactoe.py](tictactoe.py)
 
 [Part one: Tech With Tim][def2] <br>
 [Part two: Tech With Tim][def]
 
-[game_ttt.py](game_ttt.py)
+🐍 [game_ttt.py](game_ttt.py)
 
 [12 projects with Kylie Ying](https://www.youtube.com/watch?v=8ext9G7xspg&t=1470s)
 
@@ -32,6 +32,6 @@ https://www.udemy.com/course/complete-python-bootcamp/
 
 [Learn Python With This One Project: Tech With Tim][def3] <br>
 
-[slotmachine.py](slotmachine.py)
+🐍 [slotmachine.py](slotmachine.py)
 
 [def3]: https://www.youtube.com/watch?v=th4OBktqK1I
